@@ -31,7 +31,7 @@ Suggested use,
 * `<FIELD>` = `rating`
 * `<TEXT>` = `Rating%20`
 
-#### <a href="https://www.codechef.com/users/prakashaaditya"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/prakashaaditya&prefix=US%20%23&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="prakashaaditya's profile on CodeChef" title="prakashaaditya's profile on CodeChef"></a>
+#### <a href="https://www.codechef.com/users/prakashaaditya"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/prakashaaditya&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="prakashaaditya's profile on CodeChef" title="prakashaaditya's profile on CodeChef"></a>
 
 `https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.global_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/<USERNAME>&prefix=<TEXT>&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400`
 
